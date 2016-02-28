@@ -32,3 +32,13 @@ label, #submit-name {
 input {
   font-size: 1em;
 }
+
+#greeting {
+  text-align: center;
+  font-size: 2em;
+  text-shadow: 3px 3px 3px gray;
+}
+
+#gallery-main {
+  width: 100%;
+}
